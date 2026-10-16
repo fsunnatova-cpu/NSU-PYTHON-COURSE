@@ -1,0 +1,5 @@
+Anna,80
+Anna,bad
+Anna,90
+Omar,70
+Omar,101
